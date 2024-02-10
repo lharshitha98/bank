@@ -1,0 +1,16 @@
+https://www.sourcecodester.com/php/14868/banking-system-using-php-free-source-code.html
+
+Admin Access:
+http://localhost/banking/admin/
+Username: admin
+Password: admin123
+
+Sample Client Access:
+http://localhost/banking/
+Email: jsmith@sample.com
+Password: jsmith123
+
+Database Access :
+http://localhost/phpmyadmin/
+
+C:\xampp\htdocs\banking
